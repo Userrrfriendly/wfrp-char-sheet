@@ -1,7 +1,6 @@
 {
   "data": [
     {
-      "canEdit": false,
       "id": "5ce8248fb51ee94b1c1dd828",
       "object": {
         "class": 2,
@@ -108,12 +107,11 @@
         "source": {
           "1": "p. 71"
         },
-        "species": [0, 2, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5ce1c0d284577f3a58e9b5de",
       "object": {
         "class": 1,
@@ -220,12 +218,11 @@
         "source": {
           "1": "p. 65"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5cfbf74cf85c764dd8a5e90b",
       "object": {
         "class": 3,
@@ -332,12 +329,11 @@
         "source": {
           "1": "p. 83"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18bb887209656444284f46",
       "object": {
         "class": 2,
@@ -445,12 +441,11 @@
           "1": "p. 74",
           "40": "p. 61"
         },
-        "species": [0, 1, 2, 5, 6, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d15230f7562294528084969",
       "object": {
         "class": 3,
@@ -558,12 +553,11 @@
           "1": "p. 84",
           "40": "p. 62"
         },
-        "species": [0, 1, 2, 5, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0fcbc3ff5ffa6a34fd158d",
       "object": {
         "class": 7,
@@ -670,12 +664,11 @@
         "source": {
           "1": "p. 110"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0fb3427cdabd5a64f9b77c",
       "object": {
         "class": 4,
@@ -783,12 +776,11 @@
           "1": "p. 85",
           "40": "p. 62"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "6443e5e1299189654234bd06",
       "object": {
         "class": 4,
@@ -897,12 +889,11 @@
         "source": {
           "9": "p. 141"
         },
-        "species": [2, 1, 3, 0]
-      },
-      "ownerId": "admin"
+        "species": [2, 1, 3, 0],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d189ff123353e73dca2ec81",
       "object": {
         "class": 1,
@@ -1009,12 +1000,11 @@
         "source": {
           "1": "p. 62"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18ed3beeb0ed74f060f685",
       "object": {
         "class": 5,
@@ -1122,12 +1112,11 @@
           "1": "p. 98",
           "40": "p. 63"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18f2deeeb0ed74f060f68e",
       "object": {
         "class": 6,
@@ -1234,12 +1223,11 @@
         "source": {
           "1": "p. 106"
         },
-        "species": [0, 1, 2, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "644456c1299189654234bd35",
       "object": {
         "class": 8,
@@ -1348,12 +1336,11 @@
         "source": {
           "10": "p. 76-77"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6444f1a7299189654234bd66",
       "object": {
         "class": 0,
@@ -1462,12 +1449,11 @@
         "source": {
           "10": "p. 90"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "64442b02299189654234bd17",
       "object": {
         "class": 8,
@@ -1576,12 +1562,11 @@
         "source": {
           "10": "70-71"
         },
-        "species": [0, 2, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64444c63299189654234bd29",
       "object": {
         "class": 8,
@@ -1690,12 +1675,11 @@
         "source": {
           "10": "p. 72-73"
         },
-        "species": [0, 1, 2, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18f0caeeb0ed74f060f68a",
       "object": {
         "class": 6,
@@ -1802,12 +1786,11 @@
         "source": {
           "1": "p. 103"
         },
-        "species": [0, 1, 2, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d14ff382407427648a7654d",
       "object": {
         "class": 5,
@@ -1914,12 +1897,11 @@
         "source": {
           "1": "p. 100"
         },
-        "species": [0, 2, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d1526ca756229452808496c",
       "object": {
         "class": 2,
@@ -2026,12 +2008,11 @@
           "1": "p. 76",
           "40": "p. 61"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b5d1ebd059011ad48a8646",
       "object": {
         "class": 7,
@@ -2140,12 +2121,11 @@
         "source": {
           "6": "p. 10-11"
         },
-        "species": [0, 1, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b9f09c4a012bd3a878aa4a",
       "object": {
         "class": 7,
@@ -2254,12 +2234,11 @@
         "source": {
           "6": "p. 44-45"
         },
-        "species": [0, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63e57e0fbba799094ae641b7",
       "object": {
         "class": 0,
@@ -2367,12 +2346,11 @@
         "source": {
           "7": "p. 40-41"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e8f4d65bf3063683c16111",
       "object": {
         "class": 0,
@@ -2481,12 +2459,11 @@
         "source": {
           "7": "p. 128-129"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0fc3fdff5ffa6a34fd1586",
       "object": {
         "class": 6,
@@ -2593,12 +2570,11 @@
         "source": {
           "1": "p. 104"
         },
-        "species": [0, 1, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d188c0323353e73dca2ec73",
       "object": {
         "class": 2,
@@ -2705,12 +2681,11 @@
         "source": {
           "1": "p. 70"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18b74f7209656444284f42",
       "object": {
         "class": 1,
@@ -2817,12 +2792,11 @@
         "source": {
           "1": "p. 66"
         },
-        "species": [0, 1, 2, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63716b040c40139be515b00b",
       "object": {
         "class": 4,
@@ -2930,12 +2904,11 @@
         "source": {
           "3": "p. 89"
         },
-        "species": [1]
-      },
-      "ownerId": "admin"
+        "species": [1],
+        "_species": "Halfling"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e57addbba799094ae641b5",
       "object": {
         "class": 0,
@@ -3044,12 +3017,11 @@
         "source": {
           "7": "p. 38-39"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18d4dacce7347958f03028",
       "object": {
         "class": 4,
@@ -3156,12 +3128,11 @@
         "source": {
           "1": "p. 88"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18774b23353e73dca2ec5b",
       "object": {
         "class": 6,
@@ -3269,12 +3240,11 @@
           "1": "p. 102",
           "40": "p. 63"
         },
-        "species": [0, 1, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b5d6fc841671a97ecfb410",
       "object": {
         "class": 7,
@@ -3383,12 +3353,11 @@
         "source": {
           "6": "p. 12-13"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e57ba1a88313c12cb0aa5d",
       "object": {
         "class": 0,
@@ -3487,12 +3456,11 @@
         "source": {
           "7": "p. 38-39"
         },
-        "species": [2, 1]
-      },
-      "ownerId": "admin"
+        "species": [2, 1],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63e6d14d566464f71c3fb24a",
       "object": {
         "class": 0,
@@ -3601,12 +3569,11 @@
         "source": {
           "7": "p. 80-81"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6443c3621474dc011058d113",
       "object": {
         "class": 4,
@@ -3709,12 +3676,11 @@
         "source": {
           "8": "p. 154"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5ce9e3fb0573c70904e29443",
       "object": {
         "class": 6,
@@ -3821,12 +3787,11 @@
         "source": {
           "1": "p. 107"
         },
-        "species": [0, 1, 2, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d153e67a5ec9b6f484a2ef2",
       "object": {
         "class": 1,
@@ -3934,12 +3899,11 @@
           "1": "p. 68",
           "40": "p. 62"
         },
-        "species": [0, 1, 2, 3, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0f32eda6b5ad5d006b21e9",
       "object": {
         "class": 2,
@@ -4046,12 +4010,11 @@
         "source": {
           "1": "p. 72"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5cea68cc1fe52f242cc2887f",
       "object": {
         "class": 7,
@@ -4158,12 +4121,11 @@
         "source": {
           "1": "p. 109"
         },
-        "species": [0, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18eee8eeb0ed74f060f688",
       "object": {
         "class": 5,
@@ -4271,12 +4233,11 @@
           "1": "p. 99",
           "40": "p. 63"
         },
-        "species": [0, 1, 2, 6, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 6, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b8a512d059011ad48a867f",
       "object": {
         "class": 0,
@@ -4385,12 +4346,11 @@
         "source": {
           "6": "p. 22-23"
         },
-        "species": [0, 1, 2, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "640498920e60990d0fd50d92",
       "object": {
         "class": 0,
@@ -4499,12 +4459,11 @@
         "source": {
           "5": "p. 54"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6443fd77299189654234bd0b",
       "object": {
         "class": 8,
@@ -4613,12 +4572,11 @@
         "source": {
           "10": "p. 64-65"
         },
-        "species": [0, 1]
-      },
-      "ownerId": "admin"
+        "species": [0, 1],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "6443fe7b299189654234bd0c",
       "object": {
         "class": 8,
@@ -4727,12 +4685,11 @@
         "source": {
           "10": "p. 66-67"
         },
-        "species": [0, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64441482299189654234bd15",
       "object": {
         "class": 8,
@@ -4841,12 +4798,11 @@
         "source": {
           "10": "p. 68-69"
         },
-        "species": [0, 1, 2, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d188a2723353e73dca2ec70",
       "object": {
         "class": 3,
@@ -4956,12 +4912,11 @@
           "1": "p. 78",
           "5": "p. 62"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d169757339d63247c167c8d",
       "object": {
         "class": 0,
@@ -5068,12 +5023,11 @@
         "source": {
           "1": "p. 57"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d16a8ad9ae1c87a18017578",
       "object": {
         "class": 2,
@@ -5180,12 +5134,11 @@
         "source": {
           "1": "p. 69"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d06733848a38f3b4c12ef59",
       "object": {
         "class": 5,
@@ -5292,12 +5245,11 @@
         "source": {
           "1": "p. 97"
         },
-        "species": [0, 1, 2, 3, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b9cba66b8788597fb6de11",
       "object": {
         "class": 7,
@@ -5405,12 +5357,11 @@
         "source": {
           "6": "p. 36-37"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e8f8ad5bf3063683c16112",
       "object": {
         "class": 0,
@@ -5519,12 +5470,11 @@
         "source": {
           "7": "p. 140-141"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5cadc3ac5ad738101ce25013",
       "object": {
         "class": 0,
@@ -5631,12 +5581,11 @@
         "source": {
           "1": "p. 53"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b750b9d059011ad48a8663",
       "object": {
         "class": 0,
@@ -5745,12 +5694,11 @@
         "source": {
           "6": "p. 18-19"
         },
-        "species": [2, 1, 0]
-      },
-      "ownerId": "admin"
+        "species": [2, 1, 0],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b98138a3311c4aae1e98f7",
       "object": {
         "class": 7,
@@ -5859,12 +5807,11 @@
         "source": {
           "6": "p. 32-33"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63bad6ca4a012bd3a878aa4e",
       "object": {
         "class": 7,
@@ -5968,12 +5915,11 @@
         "source": {
           "6": "p. 46-47"
         },
-        "species": [2, 0, 3]
-      },
-      "ownerId": "admin"
+        "species": [2, 0, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63badf984a012bd3a878aa51",
       "object": {
         "class": 7,
@@ -6082,12 +6028,11 @@
         "source": {
           "6": "p. 48-49"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e5764cbba799094ae641b4",
       "object": {
         "class": 7,
@@ -6196,12 +6141,11 @@
         "source": {
           "7": "p. 36-37"
         },
-        "species": [0, 1, 2]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5cec547b0e6e5834986ea456",
       "object": {
         "class": 2,
@@ -6308,12 +6252,11 @@
         "source": {
           "1": "p. 75"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d17e63b6dcd9568649b11d5",
       "object": {
         "class": 4,
@@ -6420,12 +6363,11 @@
         "source": {
           "1": "p. 86"
         },
-        "species": [0, 1, 2]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d1892a323353e73dca2ec78",
       "object": {
         "class": 0,
@@ -6532,12 +6474,11 @@
         "source": {
           "1": "p. 59"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d188d7923353e73dca2ec74",
       "object": {
         "class": 1,
@@ -6644,12 +6585,11 @@
         "source": {
           "1": "p. 67"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18994523353e73dca2ec7b",
       "object": {
         "class": 0,
@@ -6752,12 +6692,11 @@
           "1": "p. 60",
           "40": "p. 60"
         },
-        "species": [0, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18ba157209656444284f45",
       "object": {
         "class": 2,
@@ -6865,12 +6804,11 @@
           "1": "p. 73",
           "40": "p. 61"
         },
-        "species": [0, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5ce869e1e0055a4d2822cb35",
       "object": {
         "class": 3,
@@ -6977,12 +6915,11 @@
         "source": {
           "1": "p. 80"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d17f3be6dcd9568649b11e3",
       "object": {
         "class": 7,
@@ -7090,12 +7027,11 @@
           "1": "p. 111",
           "40": "p. 60"
         },
-        "species": [0, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d17ef976dcd9568649b11df",
       "object": {
         "class": 5,
@@ -7203,12 +7139,11 @@
           "1": "p. 94",
           "40": "p. 63"
         },
-        "species": [0, 1, 2, 3]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63baedee4a012bd3a878aa56",
       "object": {
         "class": 7,
@@ -7317,12 +7252,11 @@
         "source": {
           "6": "p. 78"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6404a2b1e64c81ef62368850",
       "object": {
         "class": 0,
@@ -7431,12 +7365,11 @@
         "source": {
           "5": "p. 72-73"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d06832548a38f3b4c12ef5d",
       "object": {
         "class": 6,
@@ -7544,12 +7477,11 @@
           "1": "p. 105",
           "40": "p. 63"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0f3b13a6b5ad5d006b21f1",
       "object": {
         "class": 3,
@@ -7656,12 +7588,11 @@
         "source": {
           "1": "p. 81"
         },
-        "species": [0, 1, 2, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18f8fdeeb0ed74f060f695",
       "object": {
         "class": 7,
@@ -7768,12 +7699,11 @@
         "source": {
           "1": "p. 116"
         },
-        "species": [0, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0fbfecff5ffa6a34fd1582",
       "object": {
         "class": 5,
@@ -7881,12 +7811,11 @@
           "1": "p. 93",
           "40": "p. 62"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0ff18d8332bf4c94ed6ea1",
       "object": {
         "class": 7,
@@ -7993,12 +7922,11 @@
         "source": {
           "1": "p. 115"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18859523353e73dca2ec69",
       "object": {
         "class": 4,
@@ -8105,12 +8033,11 @@
         "source": {
           "1": "p. 90"
         },
-        "species": [0, 1, 2, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18c1a17209656444284f4e",
       "object": {
         "class": 3,
@@ -8218,12 +8145,11 @@
         "source": {
           "1": "p. 82"
         },
-        "species": [0, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "637173850c40139be515b010",
       "object": {
         "class": 7,
@@ -8331,12 +8257,11 @@
         "source": {
           "3": "p. 91"
         },
-        "species": [1]
-      },
-      "ownerId": "admin"
+        "species": [1],
+        "_species": "Halfling"
+      }
     },
     {
-      "canEdit": false,
       "id": "63b89b9bd059011ad48a867a",
       "object": {
         "class": 4,
@@ -8446,12 +8371,11 @@
           "6": "p. 20-21",
           "40": "p. 63"
         },
-        "species": [0, 2, 1, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 1, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63b9c8bd65b8644b8e8ca68c",
       "object": {
         "class": 7,
@@ -8561,12 +8485,11 @@
           "6": "p. 34-35",
           "17": "p. 47"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63eeb120c24e72a9f05a00b8",
       "object": {
         "class": 7,
@@ -8669,12 +8592,11 @@
         "source": {
           "4": "p. 35"
         },
-        "species": [6]
-      },
-      "ownerId": "admin"
+        "species": [6],
+        "_species": "Ogre"
+      }
     },
     {
-      "canEdit": false,
       "id": "63eeb823c24e72a9f05a00ba",
       "object": {
         "class": 0,
@@ -8777,12 +8699,11 @@
         "source": {
           "4": "p. 37"
         },
-        "species": [6]
-      },
-      "ownerId": "admin"
+        "species": [6],
+        "_species": "Ogre"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d14fbdb2407427648a7654c",
       "object": {
         "class": 6,
@@ -8889,12 +8810,11 @@
         "source": {
           "1": "p. 108"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d1690d2339d63247c167c85",
       "object": {
         "class": 0,
@@ -9001,12 +8921,11 @@
         "source": {
           "1": "p. 56"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0f2ef7a6b5ad5d006b21e7",
       "object": {
         "class": 1,
@@ -9113,12 +9032,11 @@
         "source": {
           "1": "p. 61"
         },
-        "species": [0, 1, 2, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d1872ef23353e73dca2ec58",
       "object": {
         "class": 7,
@@ -9226,12 +9144,11 @@
           "1": "p. 113",
           "40": "p. 63"
         },
-        "species": [0, 2, 3, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 3, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "637166180c40139be515b00a",
       "object": {
         "class": 4,
@@ -9335,12 +9252,11 @@
         "source": {
           "3": "p. 88"
         },
-        "species": [4]
-      },
-      "ownerId": "admin"
+        "species": [4],
+        "_species": "Wood Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "63b6068fd059011ad48a864e",
       "object": {
         "class": 7,
@@ -9449,12 +9365,11 @@
         "source": {
           "6": "p 14-15"
         },
-        "species": [0, 1, 2]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63e6d379566464f71c3fb24b",
       "object": {
         "class": 0,
@@ -9563,12 +9478,11 @@
         "source": {
           "7": "p. 92-93"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e8b7875bf3063683c1610d",
       "object": {
         "class": 0,
@@ -9677,12 +9591,11 @@
         "source": {
           "7": "p. 104-105"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18c5977209656444284f50",
       "object": {
         "class": 4,
@@ -9789,12 +9702,11 @@
         "source": {
           "1": "p. 87"
         },
-        "species": [0, 1, 2, 3, 4, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d06a11bbbde575820bf30a4",
       "object": {
         "class": 7,
@@ -9901,12 +9813,11 @@
         "source": {
           "1": "p. 112"
         },
-        "species": [0, 1, 2, 3, 4, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d15017d2407427648a7654f",
       "object": {
         "class": 4,
@@ -10013,12 +9924,11 @@
         "source": {
           "1": "p. 91"
         },
-        "species": [0, 1]
-      },
-      "ownerId": "admin"
+        "species": [0, 1],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64444e95299189654234bd2b",
       "object": {
         "class": 8,
@@ -10127,12 +10037,11 @@
         "source": {
           "10": "p. 74-75"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6444ebc7299189654234bd63",
       "object": {
         "class": 8,
@@ -10241,12 +10150,11 @@
         "source": {
           "10": "p. 78-79"
         },
-        "species": [0, 2, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 2, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d17eaf76dcd9568649b11d9",
       "object": {
         "class": 4,
@@ -10353,12 +10261,11 @@
         "source": {
           "1": "p. 89"
         },
-        "species": [0, 1, 2, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5cfabaed6cae6e5698164c4b",
       "object": {
         "class": 1,
@@ -10465,12 +10372,11 @@
         "source": {
           "1": "p. 64"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d16ad5c9ae1c87a18017579",
       "object": {
         "class": 3,
@@ -10577,12 +10483,11 @@
         "source": {
           "1": "p. 77"
         },
-        "species": [0, 1, 2, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5ce9bdd6c831083940ff5852",
       "object": {
         "class": 5,
@@ -10689,12 +10594,11 @@
         "source": {
           "1": "p. 95"
         },
-        "species": [0, 1]
-      },
-      "ownerId": "admin"
+        "species": [0, 1],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d17f0cd6dcd9568649b11e0",
       "object": {
         "class": 6,
@@ -10802,12 +10706,11 @@
           "1": "p. 101",
           "40": "p. 63"
         },
-        "species": [0, 1, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18f716eeb0ed74f060f694",
       "object": {
         "class": 7,
@@ -10914,12 +10817,11 @@
         "source": {
           "1": "p. 114"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "63b609a3d059011ad48a8650",
       "object": {
         "class": 7,
@@ -11028,12 +10930,11 @@
         "source": {
           "6": "p 16-17"
         },
-        "species": [0, 1, 2]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63e6c3ec566464f71c3fb23d",
       "object": {
         "class": 0,
@@ -11142,12 +11043,11 @@
         "source": {
           "7": "p. 56-57"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6444566b299189654234bd31",
       "object": {
         "class": 8,
@@ -11256,12 +11156,11 @@
         "source": {
           "10": "p. 76-77"
         },
-        "species": [2, 1, 0]
-      },
-      "ownerId": "admin"
+        "species": [2, 1, 0],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d0eb32ac773f26d50fcc95c",
       "object": {
         "class": 0,
@@ -11368,12 +11267,11 @@
         "source": {
           "1": "p. 55"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d188f4723353e73dca2ec75",
       "object": {
         "class": 0,
@@ -11480,12 +11378,11 @@
         "source": {
           "1": "p. 58"
         },
-        "species": [0, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d18be867209656444284f48",
       "object": {
         "class": 3,
@@ -11592,12 +11489,11 @@
         "source": {
           "1": "p. 79"
         },
-        "species": [0, 1, 3, 4, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 3, 4, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "63e57fd1bba799094ae641b8",
       "object": {
         "class": 3,
@@ -11706,12 +11602,11 @@
         "source": {
           "7": "p. 42-43"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "640495bae64c81ef6236884f",
       "object": {
         "class": 0,
@@ -11820,12 +11715,11 @@
         "source": {
           "5": "p. 46"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "5d16a6e69ae1c87a18017577",
       "object": {
         "class": 1,
@@ -11932,12 +11826,11 @@
         "source": {
           "1": "p. 63"
         },
-        "species": [0, 1, 2, 5, 6]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5, 6],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5d187f8423353e73dca2ec65",
       "object": {
         "class": 5,
@@ -12044,12 +11937,11 @@
         "source": {
           "1": "p. 96"
         },
-        "species": [0, 1, 2, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5cf98653c611a9288474f5ce",
       "object": {
         "class": 0,
@@ -12156,12 +12048,11 @@
         "source": {
           "1": "p. 54"
         },
-        "species": [0, 1, 2]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "5ce97f671140dc340416969f",
       "object": {
         "class": 4,
@@ -12268,12 +12159,11 @@
         "source": {
           "1": "p. 92"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63716fc00c40139be515b00e",
       "object": {
         "class": 4,
@@ -12374,12 +12264,11 @@
         "source": {
           "3": "p. 90"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "63b8aa93d059011ad48a8681",
       "object": {
         "class": 7,
@@ -12488,12 +12377,11 @@
         "source": {
           "6": "p. 31"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e6c62c566464f71c3fb23e",
       "object": {
         "class": 0,
@@ -12602,12 +12490,11 @@
         "source": {
           "7": "p. 68-69"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63e8f2885bf3063683c1610f",
       "object": {
         "class": 0,
@@ -12716,12 +12603,11 @@
         "source": {
           "7": "p. 116-117"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "63eeb617c24e72a9f05a00b9",
       "object": {
         "class": 3,
@@ -12829,12 +12715,11 @@
         "source": {
           "4": "p. 36"
         },
-        "species": [6]
-      },
-      "ownerId": "admin"
+        "species": [6],
+        "_species": "Ogre"
+      }
     },
     {
-      "canEdit": false,
       "id": "64e3cd1049960d0001be47e9",
       "object": {
         "class": 0,
@@ -12943,12 +12828,11 @@
         "source": {
           "11": "p. 194-195"
         },
-        "species": [0, 1, 2, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64e3cf7049960d0001be47ee",
       "object": {
         "class": 3,
@@ -13057,12 +12941,11 @@
         "source": {
           "11": "p. 196-197"
         },
-        "species": [0, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64e3d57a49960d0001be47ef",
       "object": {
         "class": 4,
@@ -13171,12 +13054,11 @@
         "source": {
           "11": "p. 198-199"
         },
-        "species": [0, 1, 2, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64e3d77849960d0001be47f0",
       "object": {
         "class": 4,
@@ -13285,12 +13167,11 @@
         "source": {
           "11": "p. 200-201"
         },
-        "species": [0, 1, 2, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "64ecab3349960d0001e67a84",
       "object": {
         "class": 0,
@@ -13398,12 +13279,11 @@
         "source": {
           "12": "p. 77"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "64f4d0a149960d00010ac369",
       "object": {
         "class": 7,
@@ -13510,12 +13390,11 @@
         "source": {
           "13": "p. 101"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "651b294349960d00010e7ec1",
       "object": {
         "class": 7,
@@ -13624,12 +13503,11 @@
         "source": {
           "19": "p. 81"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "651eb03149960d00017c94f0",
       "object": {
         "class": 3,
@@ -13739,12 +13617,11 @@
           "1": "p. 78",
           "5": "p. 62"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722a47349960d000187f1d7",
       "object": {
         "class": 0,
@@ -13852,12 +13729,11 @@
           "1": "p. 54",
           "38": "p. 56"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722a5de49960d000187f1d9",
       "object": {
         "class": 0,
@@ -13965,12 +13841,11 @@
           "1": "p. 54",
           "38": "p. 56"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722a6d849960d000187f1da",
       "object": {
         "class": 0,
@@ -14078,12 +13953,11 @@
           "1": "p. 54",
           "38": "p. 56"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722a7a449960d000187f1db",
       "object": {
         "class": 0,
@@ -14193,12 +14067,11 @@
           "6": "p. 18-19",
           "38": "p. 56"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722a87049960d000187f1dc",
       "object": {
         "class": 0,
@@ -14308,12 +14181,11 @@
           "6": "p. 18-19",
           "38": "p. 56"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722a9ec49960d000187f1dd",
       "object": {
         "class": 0,
@@ -14421,12 +14293,11 @@
           "1": "p. 55",
           "38": "p. 57"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6722ab4549960d000187f1df",
       "object": {
         "class": 0,
@@ -14529,12 +14400,11 @@
           "1": "p. 55",
           "38": "p. 57"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672550ac49960d00013b8a6f",
       "object": {
         "class": 1,
@@ -14642,12 +14512,11 @@
           "1": "p. 62",
           "38": "p. 57"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725526249960d00013b8a70",
       "object": {
         "class": 3,
@@ -14755,12 +14624,11 @@
           "1": "p. 81",
           "38": "p. 58"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672553a649960d00013b8a71",
       "object": {
         "class": 3,
@@ -14868,12 +14736,11 @@
           "1": "p. 81",
           "38": "p. 58"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672554d149960d00013b8a73",
       "object": {
         "class": 4,
@@ -14981,12 +14848,11 @@
           "1": "p. 89",
           "38": "p. 58"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f15549960d00019d2e8d",
       "object": {
         "class": 7,
@@ -15094,12 +14960,11 @@
           "1": "p. 114",
           "38": "p. 60"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f33249960d00019d2e90",
       "object": {
         "class": 7,
@@ -15207,12 +15072,11 @@
           "1": "p. 114",
           "38": "p. 60"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f3d649960d00019d2e91",
       "object": {
         "class": 7,
@@ -15320,12 +15184,11 @@
           "1": "p. 114",
           "38": "p. 60"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f49749960d00019d2e92",
       "object": {
         "class": 7,
@@ -15433,12 +15296,11 @@
           "1": "p. 115",
           "38": "p. 61"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f52a49960d00019d2e93",
       "object": {
         "class": 7,
@@ -15546,12 +15408,11 @@
           "1": "p. 115",
           "38": "p. 61"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f5e049960d00019d2e94",
       "object": {
         "class": 7,
@@ -15659,12 +15520,11 @@
           "1": "p. 115",
           "38": "p. 61"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6725f71649960d00019d2e95",
       "object": {
         "class": 7,
@@ -15774,12 +15634,11 @@
           "6": "p 16-17",
           "38": "p. 61"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6726806a49960d00011f3259",
       "object": {
         "class": 1,
@@ -15888,12 +15747,11 @@
         "source": {
           "38": "p. 62"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6727d15849960d00013447af",
       "object": {
         "class": 7,
@@ -16002,12 +15860,11 @@
         "source": {
           "38": "p. 64"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6727d5c449960d00013447b4",
       "object": {
         "class": 0,
@@ -16116,12 +15973,11 @@
         "source": {
           "38": "p. 66"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6728048a49960d00013b5c49",
       "object": {
         "class": 0,
@@ -16230,12 +16086,11 @@
         "source": {
           "38": "p. 67"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672aa1cd49960d000118ac4a",
       "object": {
         "class": 7,
@@ -16344,12 +16199,11 @@
         "source": {
           "38": "p. 68"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672aa47149960d000118ac4d",
       "object": {
         "class": 7,
@@ -16458,12 +16312,11 @@
         "source": {
           "38": "p. 70"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672b3e8049960d00011c7871",
       "object": {
         "class": 4,
@@ -16567,12 +16420,11 @@
         "source": {
           "38": "p. 72"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672b41c049960d00011c7873",
       "object": {
         "class": 0,
@@ -16681,12 +16533,11 @@
         "source": {
           "38": "p. 74"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672b484149960d00010a3d32",
       "object": {
         "class": 0,
@@ -16795,12 +16646,11 @@
         "source": {
           "38": "p. 76"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "672b491449960d00010a3d33",
       "object": {
         "class": 2,
@@ -16909,12 +16759,11 @@
         "source": {
           "38": "p. 78"
         },
-        "species": [2]
-      },
-      "ownerId": "admin"
+        "species": [2],
+        "_species": "Dwarf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6771867c49960d0001c9556d",
       "object": {
         "class": 0,
@@ -17023,12 +16872,11 @@
         "source": {
           "39": "p. 14-15"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6771869e49960d0001c9556e",
       "object": {
         "class": 0,
@@ -17138,12 +16986,11 @@
           "1": "p. 58",
           "39": "p. 13"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "67718d7449960d0001c95572",
       "object": {
         "class": 0,
@@ -17253,12 +17100,11 @@
         "source": {
           "39": "p. 16-17"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6771902c49960d0001c95574",
       "object": {
         "class": 0,
@@ -17367,12 +17213,11 @@
         "source": {
           "39": "p. 20-21"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6771b04a49960d00019506cb",
       "object": {
         "class": 0,
@@ -17481,12 +17326,11 @@
         "source": {
           "39": "p. 22-23"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6771b50f49960d00019506d1",
       "object": {
         "class": 6,
@@ -17595,12 +17439,11 @@
         "source": {
           "39": "p. 44-45"
         },
-        "species": [0, 1, 2, 3, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "6771b7b549960d00019506d2",
       "object": {
         "class": 0,
@@ -17699,12 +17542,11 @@
         "source": {
           "39": "p. 86-87"
         },
-        "species": [0]
-      },
-      "ownerId": "admin"
+        "species": [0],
+        "_species": "Human"
+      }
     },
     {
-      "canEdit": false,
       "id": "6771ba6949960d00019506d4",
       "object": {
         "class": 4,
@@ -17811,12 +17653,11 @@
         "source": {
           "39": "p. 128-129"
         },
-        "species": [0, 1, 2]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "677254ff49960d00012259ca",
       "object": {
         "class": 4,
@@ -17925,12 +17766,11 @@
         "source": {
           "39": "p. 138-139"
         },
-        "species": [0, 1, 2, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "677257f149960d00012259cc",
       "object": {
         "class": 4,
@@ -18039,12 +17879,11 @@
         "source": {
           "39": "p. 140-141"
         },
-        "species": [0, 1, 2, 4]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "67f0d50b49960d0001cd2527",
       "object": {
         "class": 1,
@@ -18152,12 +17991,11 @@
           "1": "p. 62",
           "40": "p. 62"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f0d6fd49960d0001cd2528",
       "object": {
         "class": 0,
@@ -18267,12 +18105,11 @@
           "6": "p. 18-19",
           "40": "p. 60"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f0d8d249960d0001cd252a",
       "object": {
         "class": 7,
@@ -18380,12 +18217,11 @@
           "1": "p. 109",
           "40": "p. 60"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f0d9c149960d0001cd252b",
       "object": {
         "class": 7,
@@ -18495,12 +18331,11 @@
           "6": "p. 44-45",
           "40": "p. 60"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f3fc9749960d00015a0149",
       "object": {
         "class": 7,
@@ -18608,12 +18443,11 @@
           "1": "p. 112",
           "40": "p. 60"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f4de5649960d0001cbdc06",
       "object": {
         "class": 1,
@@ -18721,12 +18555,11 @@
           "1": "p. 65",
           "40": "p. 62"
         },
-        "species": [0, 1, 2, 3, 5]
-      },
-      "ownerId": "admin"
+        "species": [0, 1, 2, 3, 5],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "67f4dedf49960d0001cbdc07",
       "object": {
         "class": 4,
@@ -18834,12 +18667,11 @@
           "1": "p. 87",
           "40": "p. 62"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f5476549960d0001cbdc0d",
       "object": {
         "class": 5,
@@ -18947,12 +18779,11 @@
           "1": "p. 97",
           "40": "p. 63"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f54f9f49960d0001cbdc15",
       "object": {
         "class": 7,
@@ -19061,12 +18892,11 @@
         "source": {
           "40": "p. 64-65"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f65b7149960d0001cbdc29",
       "object": {
         "class": 7,
@@ -19175,12 +19005,11 @@
         "source": {
           "40": "p. 66-67"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f6610649960d0001cbdc2c",
       "object": {
         "class": 4,
@@ -19289,12 +19118,11 @@
         "source": {
           "40": "p. 70-71"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f6652249960d0001cbdc30",
       "object": {
         "class": 1,
@@ -19403,12 +19231,11 @@
         "source": {
           "40": "p. 72-73"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "67f6891749960d0001cbdc36",
       "object": {
         "class": 2,
@@ -19517,12 +19344,11 @@
         "source": {
           "40": "p. 74-75"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "6801622749960d0001615c71",
       "object": {
         "class": 0,
@@ -19636,12 +19462,11 @@
         "source": {
           "40": "p. 90"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "68016a9249960d0001615c73",
       "object": {
         "class": 0,
@@ -19727,12 +19552,11 @@
         "source": {
           "40": "p. 100"
         },
-        "species": [3, 4]
-      },
-      "ownerId": "admin"
+        "species": [3, 4],
+        "_species": null
+      }
     },
     {
-      "canEdit": false,
       "id": "68016cd549960d0001615c74",
       "object": {
         "class": 0,
@@ -19818,12 +19642,11 @@
         "source": {
           "40": "p. 104"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     },
     {
-      "canEdit": false,
       "id": "68016e0549960d0001615c75",
       "object": {
         "class": 0,
@@ -19911,9 +19734,9 @@
         "source": {
           "40": "p. 108"
         },
-        "species": [3]
-      },
-      "ownerId": "admin"
+        "species": [3],
+        "_species": "High Elf"
+      }
     }
   ]
 }
