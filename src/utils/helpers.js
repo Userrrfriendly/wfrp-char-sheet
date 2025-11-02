@@ -77,25 +77,17 @@ function addClass(json) {
 }
 
 /**Adds species mapping */
-function mapSpecies(obj) {
-  const speciesMap = ["Human", "Halfling", "Dwarf", "High Elf", "Wood Elf", "Gnome", "Ogre"];
+const speciesMap = ["Human", "Halfling", "Dwarf", "High Elf", "Wood Elf", "Gnome", "Ogre"];
 
-  if (Array.isArray(obj)) {
-    return obj.map(mapSpecies);
-  } else if (obj && typeof obj === "object") {
-    // Create a shallow copy to avoid mutating the original object
-    const newObj = {};
+function addSpeciesNames(obj) {
+  if (obj && typeof obj === "object") {
     for (const key in obj) {
-      if (Object.hasOwn(obj, key)) {
-        newObj[key] = mapSpecies(obj[key]);
-        if (key === "species") {
-          const idx = obj[key];
-          newObj["_species"] = speciesMap[idx] ?? null;
-        }
+      if (key === "species" && Array.isArray(obj[key])) {
+        obj["_species"] = obj[key].map(num => speciesMap[num]);
+      } else if (typeof obj[key] === "object") {
+        addSpeciesNames(obj[key]);
       }
     }
-    return newObj;
-  } else {
-    return obj;
   }
+  return obj;
 }
