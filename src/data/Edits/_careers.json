@@ -5,6 +5,7 @@
       "id": "5ce8248fb51ee94b1c1dd828",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "Your blade is an instrument of justice, bound by long tradition and\r\nemployed with deadly precision.",
         "level1": {
           "attributes": [1, 5, 6],
@@ -116,6 +117,7 @@
       "id": "5ce1c0d284577f3a58e9b5de",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "Shrewd and numerate, you buy low to sell high, making more money\r\nthan most will ever see.",
         "level1": {
           "attributes": [6, 9, 10],
@@ -227,6 +229,7 @@
       "id": "5cfbf74cf85c764dd8a5e90b",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "Intrepid and resourceful, you guide others through the dangerous wilds of the Old World.",
         "level1": {
           "attributes": [4, 5, 6],
@@ -338,6 +341,7 @@
       "id": "5d18bb887209656444284f46",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "You serve the great and the good, performing tasks in support of your employer. High Elves assume servant roles only on Ulthuan, never in the Old World.",
         "level1": {
           "attributes": [3, 4, 6],
@@ -450,6 +454,7 @@
       "id": "5d15230f7562294528084969",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "You are the beating heart of rural life, working the countryside to feed civilization. Villager High Elves can be found in Ulthuan only.",
         "level1": {
           "attributes": [3, 4, 6],
@@ -562,6 +567,7 @@
       "id": "5d0fcbc3ff5ffa6a34fd158d",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Your job is simple: keep undesirables out.",
         "level1": {
           "attributes": [1, 4, 6],
@@ -673,6 +679,7 @@
       "id": "5d0fb3427cdabd5a64f9b77c",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Ruthless and determined, you pursue your quarry to the bitter end: for justice, or for money.",
         "level1": {
           "attributes": [1, 4, 6],
@@ -785,6 +792,7 @@
       "id": "6443e5e1299189654234bd06",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Like your waterborne brethren, you specialise in moving goods from place to place without bothering with petty annoyances such as taxes. ",
         "level1": {
           "attributes": [4, 6, 9],
@@ -898,6 +906,7 @@
       "id": "5d189ff123353e73dca2ec81",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "A skilled craftsperson, you take pride in your work, creating products for sale and commission.",
         "level1": {
           "attributes": [3, 4, 7],
@@ -1009,6 +1018,7 @@
       "id": "5d18ed3beeb0ed74f060f685",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "You smuggle cargo, avoiding taxes and risking riverwarden\r\ninspections to secure maximum profit.",
         "level1": {
           "attributes": [6, 7, 9],
@@ -1121,6 +1131,7 @@
       "id": "5d18f2deeeb0ed74f060f68e",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "You are part of an organised criminal gang, collecting debts and extorting money from the weak.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -1232,6 +1243,7 @@
       "id": "644456c1299189654234bd35",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You maintain and f ire the guns aboard ship and are expert in their use.",
         "level1": {
           "attributes": [2, 6, 8],
@@ -1345,6 +1357,7 @@
       "id": "6444f1a7299189654234bd66",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You preach that the strong have the right to take advantage of the weak and call on Stromfels to aid you in your predations.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -1458,6 +1471,7 @@
       "id": "64442b02299189654234bd17",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You command a ship, and must inspire your crew to place their lives in your hands.",
         "level1": {
           "attributes": [1, 8, 10],
@@ -1571,6 +1585,7 @@
       "id": "64444c63299189654234bd29",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You work on board a ship, keeping the decks clean and the sails suitably trimmed.",
         "level1": {
           "attributes": [6, 7, 10],
@@ -1684,6 +1699,7 @@
       "id": "5d18f0caeeb0ed74f060f68a",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "A shrewd assessor of valuables, you’ll buy anything, legal or not, and turn it around for a tidy profit.",
         "level1": {
           "attributes": [5, 6, 10],
@@ -1795,6 +1811,7 @@
       "id": "5d14ff382407427648a7654d",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "You lure vessels to a watery doom and make off with their cargo.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -1906,6 +1923,7 @@
       "id": "5d1526ca756229452808496c",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "You oversee another’s territory, ensuring it is properly maintained and, if necessary, protected.",
         "level1": {
           "attributes": [3, 4, 9],
@@ -2017,6 +2035,7 @@
       "id": "63b5d1ebd059011ad48a8646",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Employing strength and skill in equal measure, you bring finesse and accuracy to the battlefield.",
         "level1": {
           "attributes": [2, 5, 6],
@@ -2130,6 +2149,7 @@
       "id": "63b9f09c4a012bd3a878aa4a",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You rely on speed to find the enemy, screen your allies from his scouts, and strike without warning where he least expects.",
         "level1": {
           "attributes": [1, 4, 6],
@@ -2243,6 +2263,7 @@
       "id": "63e57e0fbba799094ae641b7",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You protect the reputation of the colleges by hunting down and eliminating rogue wizards.",
         "level1": {
           "attributes": [1, 8, 9],
@@ -2355,6 +2376,7 @@
       "id": "63e8f4d65bf3063683c16111",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You feed off your raw passion and emotional energy to bring magical firepower to the battlefield.",
         "level1": {
           "attributes": [1, 8, 9],
@@ -2468,6 +2490,7 @@
       "id": "5d0fc3fdff5ffa6a34fd1586",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "You brave the threat of necromancy, stealing from the dead to line your own pockets.",
         "level1": {
           "attributes": [3, 5, 9],
@@ -2579,6 +2602,7 @@
       "id": "5d188c0323353e73dca2ec73",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "You possess an artistic gift, one that transcends daily life and uplifts the souls of others.",
         "level1": {
           "attributes": [3, 5, 7],
@@ -2690,6 +2714,7 @@
       "id": "5d18b74f7209656444284f42",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "You spare civilisation from being overrun by vermin with help from your trusty, canine companion.",
         "level1": {
           "attributes": [1, 2, 9],
@@ -2801,6 +2826,7 @@
       "id": "63716b040c40139be515b00b",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You use you intimate knowledge of the terrain and cunning guerrilla tactics to deter unwanted visitors.",
         "level1": {
           "attributes": [2, 6, 9],
@@ -2913,6 +2939,7 @@
       "id": "63e57addbba799094ae641b5",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are at the cutting edge of understanding the properties of matter, combining science and magic to great effect.",
         "level1": {
           "attributes": [4, 7, 8],
@@ -3026,6 +3053,7 @@
       "id": "5d18d4dacce7347958f03028",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Just when you abandoned all hope, your suffering and the righteousness of Sigmar saved you!",
         "level1": {
           "attributes": [1, 3, 4],
@@ -3137,6 +3165,7 @@
       "id": "5d18774b23353e73dca2ec5b",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "Unscrupulous and charming, you separate fools from their money; thankfully, there is no shortage of fools…",
         "level1": {
           "attributes": [5, 7, 10],
@@ -3249,6 +3278,7 @@
       "id": "63b5d6fc841671a97ecfb410",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Skilfully wielding your vicious zweihander, you are the greatest of all the Empire’s foot soldiers.",
         "level1": {
           "attributes": [9, 1, 3],
@@ -3362,6 +3392,7 @@
       "id": "63e57ba1a88313c12cb0aa5d",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are at the cutting edge of understanding the properties of matter, combining science and magic to great effect.",
         "level1": {
           "attributes": [4, 7, 8],
@@ -3465,6 +3496,7 @@
       "id": "63e6d14d566464f71c3fb24a",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You tap the vitality of the earth and the power of nature to manipulate the natural world through your magic.",
         "level1": {
           "attributes": [6, 8, 9],
@@ -3578,6 +3610,7 @@
       "id": "6443c3621474dc011058d113",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Looking to Ulric for inspiration, you have decided to deal with life’s\ndifficulties by practising a form of extreme self-reliance.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -3685,6 +3718,7 @@
       "id": "5ce9e3fb0573c70904e29443",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "You steal from others in order to line your own pockets, and you’re\r\nrather good at it.",
         "level1": {
           "attributes": [5, 6, 9],
@@ -3796,6 +3830,7 @@
       "id": "5d153e67a5ec9b6f484a2ef2",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "You maintain the peace and keep the rabble in line so your town doesn’t descend into anarchy.",
         "level1": {
           "attributes": [1, 3, 10],
@@ -3908,6 +3943,7 @@
       "id": "5d0f32eda6b5ad5d006b21e9",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "An articulate emissary, you travel far and wide, negotiating favorable pacts and treaties.",
         "level1": {
           "attributes": [4, 6, 10],
@@ -4019,6 +4055,7 @@
       "id": "5cea68cc1fe52f242cc2887f",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "A dashing and fearless rider, you bring speed, versatility, and skill-at-arms\r\nto the battlefield.",
         "level1": {
           "attributes": [1, 3, 6],
@@ -4130,6 +4167,7 @@
       "id": "5d18eee8eeb0ed74f060f688",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "You may officially load cargo for coin, but everyone knows the Stevedores rule the docklands. High Elves become stevedores only on Ulthuan, never in the Old World.",
         "level1": {
           "attributes": [1, 4, 5],
@@ -4242,6 +4280,7 @@
       "id": "63b8a512d059011ad48a867f",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are hired to survey and map far flung locations. The more the area is in need of mapping, the more dangerous the job is likely to be.",
         "level1": {
           "attributes": [5, 7, 8],
@@ -4355,6 +4394,7 @@
       "id": "640498920e60990d0fd50d92",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You live to enact the divine will of Solkan, restoring pure order to a world hopelessly corrupted.",
         "level1": {
           "attributes": [4, 5, 9],
@@ -4468,6 +4508,7 @@
       "id": "6443fd77299189654234bd0b",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You scour the local beaches for anything of value, always on the lookout for a hidden gem or lucky find.",
         "level1": {
           "attributes": [1, 5, 8],
@@ -4581,6 +4622,7 @@
       "id": "6443fe7b299189654234bd0c",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You coordinate the actions of your ship’s crew, guide their activity, and raise their morale with rousing ditties.",
         "level1": {
           "attributes": [7, 8, 10],
@@ -4694,6 +4736,7 @@
       "id": "64441482299189654234bd15",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You guide ships through the most treacherous waters of the\nworld’s several seas.",
         "level1": {
           "attributes": [1, 4, 5],
@@ -4807,6 +4850,7 @@
       "id": "5d188a2723353e73dca2ec70",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "Wise and secretive, you guide your community using ancient magic handed down for generations.",
         "level1": {
           "attributes": [4, 5, 7],
@@ -4921,6 +4965,7 @@
       "id": "5d169757339d63247c167c8d",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "Your steady hand has saved countless lives, while your strong stomach has helped you endure many gruesome sights.",
         "level1": {
           "attributes": [7, 8, 9],
@@ -5032,6 +5077,7 @@
       "id": "5d16a8ad9ae1c87a18017578",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "Wise and well-informed, you provide advice and guidance so your employer prospers.",
         "level1": {
           "attributes": [4, 5, 6],
@@ -5143,6 +5189,7 @@
       "id": "5d06733848a38f3b4c12ef59",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "A life on the ocean waves calls to you, though many Reiklander Seamen never see the sea…",
         "level1": {
           "attributes": [6, 7, 10],
@@ -5254,6 +5301,7 @@
       "id": "63b9cba66b8788597fb6de11",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are dedicated to ensuring the fidelity of the Empire and defending it from Chaos.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -5366,6 +5414,7 @@
       "id": "63e8f8ad5bf3063683c16112",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "Ruled by your magical affinity you are drawn instinctively to the wild places and its great beasts.",
         "level1": {
           "attributes": [1, 8, 9],
@@ -5479,6 +5528,7 @@
       "id": "5cadc3ac5ad738101ce25013",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "Skilled in chemistry and concoctions, you create and sell medicine of\r\nall kinds.",
         "level1": {
           "attributes": [4, 7, 8],
@@ -5590,6 +5640,7 @@
       "id": "63b750b9d059011ad48a8663",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You bring the big guns to the fight. You maintain and fire artillery and understand the best use of blackpowder.",
         "level1": {
           "attributes": [2, 5, 8],
@@ -5703,6 +5754,7 @@
       "id": "63b98138a3311c4aae1e98f7",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You embody the values of Myrmidia and ride at the forefront of her templar knights.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -5816,6 +5868,7 @@
       "id": "63bad6ca4a012bd3a878aa4e",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "It is your job to bring down castle walls and to keep others from doing so. Let other poor fools storm the walls - you’ll provide cover, or a more subtle way in.",
         "level1": {
           "attributes": [1, 2, 3],
@@ -5924,6 +5977,7 @@
       "id": "63badf984a012bd3a878aa51",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Discipline and drill. If you keep your wits about you and the enemy in front, no force on a battlefield, not even the heaviest Imperial knights, can stop a phalanx of Pikemen.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -6037,6 +6091,7 @@
       "id": "63e5764cbba799094ae641b4",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are a specialised guard, balancing vigilance and a strong arm with the dignity expected of the institution you protect.",
         "level1": {
           "attributes": [1, 8, 9],
@@ -6150,6 +6205,7 @@
       "id": "5cec547b0e6e5834986ea456",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "You are the eyes and ears of another, exposing secrets and spreading lies.",
         "level1": {
           "attributes": [6, 9, 10],
@@ -6261,6 +6317,7 @@
       "id": "5d17e63b6dcd9568649b11d5",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Determined and rugged, you deliver passengers safely by coach despite the daily dangers you face.",
         "level1": {
           "attributes": [2, 4, 9],
@@ -6372,6 +6429,7 @@
       "id": "5d1892a323353e73dca2ec78",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You dedicate your life to the pursuit and study of knowledge, wherever that may take you.",
         "level1": {
           "attributes": [4, 8, 9],
@@ -6483,6 +6541,7 @@
       "id": "5d188d7923353e73dca2ec74",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "Ambitious and socially mobile, you are the hardworking glue that holds urban society together.",
         "level1": {
           "attributes": [6, 8, 10],
@@ -6594,6 +6653,7 @@
       "id": "5d18994523353e73dca2ec7b",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "Feared and distrusted by the citizens of the Empire, you legally wield powerful and dangerous magic.",
         "level1": {
           "attributes": [1, 8, 9],
@@ -6701,6 +6761,7 @@
       "id": "5d18ba157209656444284f45",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "As the scion of a noble bloodline, you stand proudly from the common rabble.",
         "level1": {
           "attributes": [1, 5, 7],
@@ -6813,6 +6874,7 @@
       "id": "5ce869e1e0055a4d2822cb35",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "Tough, independent killers who make a living off the fur and flesh of wild creatures.",
         "level1": {
           "attributes": [3, 4, 7],
@@ -6924,6 +6986,7 @@
       "id": "5d17f3be6dcd9568649b11e3",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Thundering into battle on a heavy charger, you dominate the field, spreading fear in your wake.",
         "level1": {
           "attributes": [3, 5, 6],
@@ -7036,6 +7099,7 @@
       "id": "5d17ef976dcd9568649b11df",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "You pilot ships and boats through the most treacherous waters of the Old World. High Elves can be Huffers in Ulthuan.",
         "level1": {
           "attributes": [1, 4, 5],
@@ -7148,6 +7212,7 @@
       "id": "63baedee4a012bd3a878aa56",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You value honour, obedience and tactical martial prowess, in emulation of your patron goddess, Myrmidia.",
         "level1": {
           "attributes": [1, 8, 10],
@@ -7261,6 +7326,7 @@
       "id": "6404a2b1e64c81ef62368850",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a vessel for the Earth Mother’s wishes and blessings amongst the mortals who depend on her beneficence for comfort and survival. ",
         "level1": {
           "attributes": [4, 9, 10],
@@ -7374,6 +7440,7 @@
       "id": "5d06832548a38f3b4c12ef5d",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "You prey upon travelers, extracting a toll from the vulnerable and the unsuspecting.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -7486,6 +7553,7 @@
       "id": "5d0f3b13a6b5ad5d006b21f1",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "A hewer of stone, you pursue back-breaking work in the darkest depths of the world.",
         "level1": {
           "attributes": [3, 4, 9],
@@ -7597,6 +7665,7 @@
       "id": "5d18f8fdeeb0ed74f060f695",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You bring divinity to the thick of battle, slaying the enemies of the Empire with righteous fury.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -7708,6 +7777,7 @@
       "id": "5d0fbfecff5ffa6a34fd1582",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "You ply the dangerous waters of the Old World, transporting people, goods, and the latest news.",
         "level1": {
           "attributes": [3, 4, 6],
@@ -7820,6 +7890,7 @@
       "id": "5d0ff18d8332bf4c94ed6ea1",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are paid to train, be disciplined, and, when the need comes, go to war.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -7931,6 +8002,7 @@
       "id": "5d18859523353e73dca2ec69",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Worldly-wise and free of interference, you wander the Empire selling your wares where you will.",
         "level1": {
           "attributes": [4, 7, 9],
@@ -8042,6 +8114,7 @@
       "id": "5d18c1a17209656444284f4e",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "You have a talent for divining the future, or for convincing others you can…",
         "level1": {
           "attributes": [5, 7, 10],
@@ -8154,6 +8227,7 @@
       "id": "637173850c40139be515b010",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You roam the moot like a questing knight, short and stubby one.",
         "level1": {
           "attributes": [2, 6, 8],
@@ -8266,6 +8340,7 @@
       "id": "63b89b9bd059011ad48a867a",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You accompany armies on campaign, looking for adventure, protection, or just an angle.",
         "level1": {
           "attributes": [1, 6, 10],
@@ -8380,6 +8455,7 @@
       "id": "63b9c8bd65b8644b8e8ca68c",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You embody the ferocity and strength of the god of battle, wolves and winter.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -8494,6 +8570,7 @@
       "id": "63eeb120c24e72a9f05a00b8",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Maneaters are the Ogres most encountered by denizens of the Empire. These wandering warriors leave their tribes behind to travel across the Old World, in search of novel foes to fight and food to eat.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -8601,6 +8678,7 @@
       "id": "63eeb823c24e72a9f05a00ba",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "Among the Ogres of the Mountains of Mourn, the position of Butcher lies somewhere between that of Priest and Mystic. Their faith is practised in the preparation of meat.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -8708,6 +8786,7 @@
       "id": "5d14fbdb2407427648a7654c",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "Wilful and ambitious, you strive to master magic without an officially sanctioned licence to operate.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -8819,6 +8898,7 @@
       "id": "5d1690d2339d63247c167c85",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You dedicate your life to the service of your god, having sworn vows that bind you in a life of service.",
         "level1": {
           "attributes": [7, 8, 10],
@@ -8930,6 +9010,7 @@
       "id": "5d0f2ef7a6b5ad5d006b21e7",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "Charismatic and articulate, you champion your cause in the face of establishment opposition.",
         "level1": {
           "attributes": [2, 8, 10],
@@ -9041,6 +9122,7 @@
       "id": "5d1872ef23353e73dca2ec58",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "A strong-arm for hire, you bully, fight, and maybe even kill for coin.",
         "level1": {
           "attributes": [1, 4, 6],
@@ -9153,6 +9235,7 @@
       "id": "637166180c40139be515b00a",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Master archer, hunts all all threats to the natural world. You are the ultimate defender of the forest.",
         "level1": {
           "attributes": [2, 6, 8],
@@ -9261,6 +9344,7 @@
       "id": "63b6068fd059011ad48a864e",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Famously reliable, you are a stalwart of the infantry, and not to be trifled with.",
         "level1": {
           "attributes": [1, 4, 6],
@@ -9374,6 +9458,7 @@
       "id": "63e6d379566464f71c3fb24b",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You scrutinise the heavens and draw down the Wind of Azyr to bend the elements to your will and manipulate fate itself",
         "level1": {
           "attributes": [1, 8, 9],
@@ -9487,6 +9572,7 @@
       "id": "63e8b7875bf3063683c1610d",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "Secretive and deceitful, you combine the abilities of wizard and spy.",
         "level1": {
           "attributes": [8, 9, 10],
@@ -9600,6 +9686,7 @@
       "id": "5d18c5977209656444284f50",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Whether high-born or low-brow, you distract people from the harsh realities of life.",
         "level1": {
           "attributes": [6, 7, 10],
@@ -9711,6 +9798,7 @@
       "id": "5d06a11bbbde575820bf30a4",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You fight for money, for glory, and for the entertainment of the masses.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -9822,6 +9910,7 @@
       "id": "5d15017d2407427648a7654f",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "With a wary eye and ready weapon, you tour the highways of the Empire enforcing the law.",
         "level1": {
           "attributes": [2, 4, 5],
@@ -9933,6 +10022,7 @@
       "id": "64444e95299189654234bd2b",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You bring the will of Manann to his followers and intercede to court his favour and avoid his wrath.",
         "level1": {
           "attributes": [4, 6, 9],
@@ -10046,6 +10136,7 @@
       "id": "6444ebc7299189654234bd63",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You lure vessels to a watery doom and make off with their\nprecious cargo.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -10159,6 +10250,7 @@
       "id": "5d17eaf76dcd9568649b11d9",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Swift and sure-footed, nothing stops you delivering your messages on time.",
         "level1": {
           "attributes": [4, 5, 6],
@@ -10270,6 +10362,7 @@
       "id": "5cfabaed6cae6e5698164c4b",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "Perceptive and suspicious, you probe deep into the heart of any crime, and find answers.",
         "level1": {
           "attributes": [5, 6, 8],
@@ -10381,6 +10474,7 @@
       "id": "5d16ad5c9ae1c87a18017579",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "You are an official trusted by local rulers to administer their lands efficiently and firmly.",
         "level1": {
           "attributes": [1, 5, 9],
@@ -10492,6 +10586,7 @@
       "id": "5ce9bdd6c831083940ff5852",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "Strong-backed and sure, you patrol the riverways in pursuit of\r\nlawbreakers and troublemakers.",
         "level1": {
           "attributes": [2, 3, 10],
@@ -10603,6 +10698,7 @@
       "id": "5d17f0cd6dcd9568649b11e0",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "Street-wise and mercenary, you make a living selling illicit goods in the seedier side of town.",
         "level1": {
           "attributes": [6, 7, 10],
@@ -10715,6 +10811,7 @@
       "id": "5d18f716eeb0ed74f060f694",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are rage and shame incarnate, seeking a worthy death to reclaim your lost honour.",
         "level1": {
           "attributes": [1, 3, 9],
@@ -10826,6 +10923,7 @@
       "id": "63b609a3d059011ad48a8650",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Wielding a handgun, you bring death to your enemies from\nlong range - or at least put the fear of Sigmar into them.",
         "level1": {
           "attributes": [2, 6, 7],
@@ -10939,6 +11037,7 @@
       "id": "63e6c3ec566464f71c3fb23d",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a member of the Order of Light, respected for its difficult practise and regarded as exotic and austere.",
         "level1": {
           "attributes": [5, 8, 9],
@@ -11052,6 +11151,7 @@
       "id": "6444566b299189654234bd31",
       "object": {
         "class": 8,
+        "_class": "Seafarer",
         "description": "You maintain and f ire the guns aboard ship and are expert in their use.",
         "level1": {
           "attributes": [2, 6, 8],
@@ -11165,6 +11265,7 @@
       "id": "5d0eb32ac773f26d50fcc95c",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You navigate treacherous legal systems, defending clients and\r\nprosecuting the guilty.",
         "level1": {
           "attributes": [5, 7, 8],
@@ -11276,6 +11377,7 @@
       "id": "5d188f4723353e73dca2ec75",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You carry the word of your god, tending to the spiritual needs of the masses.",
         "level1": {
           "attributes": [4, 6, 9],
@@ -11387,6 +11489,7 @@
       "id": "5d18be867209656444284f48",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "Skilled botanists who use Rhya’s bounty to create cures for many ailments.",
         "level1": {
           "attributes": [4, 5, 6],
@@ -11498,6 +11601,7 @@
       "id": "63e57fd1bba799094ae641b8",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "You possess the rare ability to infer facts about the past through contact with a person, item, or place.",
         "level1": {
           "attributes": [8, 9, 10],
@@ -11611,6 +11715,7 @@
       "id": "640495bae64c81ef6236884f",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You follow the ways of Handrich, always looking for the best deal in the transcendental pursuit of profit.",
         "level1": {
           "attributes": [4, 8, 10],
@@ -11724,6 +11829,7 @@
       "id": "5d16a6e69ae1c87a18017577",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "Street-smart, you make a living from the charity of others using persuasion and charm.",
         "level1": {
           "attributes": [4, 6, 10],
@@ -11835,6 +11941,7 @@
       "id": "5d187f8423353e73dca2ec65",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "Rivers carry most of the Old World’s traffic, and you stand in the heart of that excitement.",
         "level1": {
           "attributes": [4, 6, 7],
@@ -11946,6 +12053,7 @@
       "id": "5cf98653c611a9288474f5ce",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You excel at building machines and constructions that might are useful, inspiring and quite often also deadly.",
         "level1": {
           "attributes": [2, 7, 8],
@@ -12057,6 +12165,7 @@
       "id": "5ce97f671140dc340416969f",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You hunt the illegal witches plaguing the Empire by any and all\r\nmeans necessary.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -12168,6 +12277,7 @@
       "id": "63716fc00c40139be515b00e",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Your duty is to patrol ancient dark tunnels and secret mountain passes.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -12273,6 +12383,7 @@
       "id": "63b8aa93d059011ad48a8681",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You pursue the life of the knight, but without the obligations to, or the protection of, a Knightly Order.",
         "level1": {
           "attributes": [3, 5, 6],
@@ -12386,6 +12497,7 @@
       "id": "63e6c62c566464f71c3fb23e",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a member of the Gold Order, widely acknowledged as masters of the manipulation of matter",
         "level1": {
           "attributes": [4, 8, 9],
@@ -12499,6 +12611,7 @@
       "id": "63e8f2885bf3063683c1610f",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a member of the Amethyst Order, feared and respected for your familiarity with death.",
         "level1": {
           "attributes": [7, 8, 9],
@@ -12612,6 +12725,7 @@
       "id": "63eeb617c24e72a9f05a00b9",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "Rhinox Herders are those rare Ogres who manage to keep an eye on\ntomorrow even as they fill their gut today. Their duties include both animal husbandry and care, as well as fighting off other Ogres who wander too close to the animal pens or grazing areas looking for a meal.",
         "level1": {
           "attributes": [2, 3, 4],
@@ -12724,6 +12838,7 @@
       "id": "64e3cd1049960d0001be47e9",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You employ your fluency with multiple languages to bargain with native populations and decode the warnings of the ancients.",
         "level1": {
           "attributes": [4, 8, 10],
@@ -12837,6 +12952,7 @@
       "id": "64e3cf7049960d0001be47ee",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "You receive visions from an ancient, alien power, leading you to investigate violations of the Great Plan.",
         "level1": {
           "attributes": [5, 6, 9],
@@ -12950,6 +13066,7 @@
       "id": "64e3d57a49960d0001be47ef",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Bitter experience has taught you how to survive the worst of the natural world and its hazards.",
         "level1": {
           "attributes": [4, 8, 9],
@@ -13063,6 +13180,7 @@
       "id": "64e3d77849960d0001be47f0",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You forge a path through untamed wilds in expeditions of discovery.",
         "level1": {
           "attributes": [5, 6, 8],
@@ -13176,6 +13294,7 @@
       "id": "64ecab3349960d0001e67a84",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "A scheming manipulator, master of deception, and wielder of the foulest sorcery, you have given yourself to Tzeentch and debased your soul upon its altar.\n",
         "level1": {
           "attributes": [5, 8, 9],
@@ -13288,6 +13407,7 @@
       "id": "64f4d0a149960d00010ac369",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Tzeentch is the Architect of Fate, the Great Conspirator. Change itself is Tzeenth's domain, and you have given yourself over to it body, mind, and soul.",
         "level1": {
           "attributes": [1, 4, 8],
@@ -13399,6 +13519,7 @@
       "id": "651b294349960d00010e7ec1",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "A dawi and his shield stand firm!",
         "level1": {
           "attributes": [1, 4, 9],
@@ -13512,6 +13633,7 @@
       "id": "651eb03149960d00017c94f0",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "Wise and secretive, you guide your community using ancient magic handed down for generations.",
         "level1": {
           "attributes": [4, 5, 7],
@@ -13626,6 +13748,7 @@
       "id": "6722a47349960d000187f1d7",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You excel at building machines and constructions that might are useful, inspiring and quite often also deadly.",
         "level1": {
           "attributes": [2, 7, 8],
@@ -13738,6 +13861,7 @@
       "id": "6722a5de49960d000187f1d9",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You excel at building machines and constructions that might are useful, inspiring and quite often also deadly.",
         "level1": {
           "attributes": [2, 7, 8],
@@ -13850,6 +13974,7 @@
       "id": "6722a6d849960d000187f1da",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You excel at building machines and constructions that might are useful, inspiring and quite often also deadly.",
         "level1": {
           "attributes": [2, 7, 8],
@@ -13962,6 +14087,7 @@
       "id": "6722a7a449960d000187f1db",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You bring the big guns to the fight. You maintain and fire artillery and understand the best use of blackpowder.",
         "level1": {
           "attributes": [2, 5, 8],
@@ -14076,6 +14202,7 @@
       "id": "6722a87049960d000187f1dc",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You bring the big guns to the fight. You maintain and fire artillery and understand the best use of blackpowder.",
         "level1": {
           "attributes": [2, 5, 8],
@@ -14190,6 +14317,7 @@
       "id": "6722a9ec49960d000187f1dd",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You navigate treacherous legal systems, defending clients and\r\nprosecuting the guilty.",
         "level1": {
           "attributes": [5, 7, 8],
@@ -14302,6 +14430,7 @@
       "id": "6722ab4549960d000187f1df",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You navigate treacherous legal systems, defending clients and\r\nprosecuting the guilty.",
         "level1": {
           "attributes": [5, 7, 8],
@@ -14409,6 +14538,7 @@
       "id": "672550ac49960d00013b8a6f",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "A skilled craftsperson, you take pride in your work, creating products for sale and commission.",
         "level1": {
           "attributes": [3, 4, 7],
@@ -14521,6 +14651,7 @@
       "id": "6725526249960d00013b8a70",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "A hewer of stone, you pursue back-breaking work in the darkest depths of the world.",
         "level1": {
           "attributes": [3, 4, 9],
@@ -14633,6 +14764,7 @@
       "id": "672553a649960d00013b8a71",
       "object": {
         "class": 3,
+        "_class": "Peasant",
         "description": "A hewer of stone, you pursue back-breaking work in the darkest depths of the world.",
         "level1": {
           "attributes": [3, 4, 9],
@@ -14745,6 +14877,7 @@
       "id": "672554d149960d00013b8a73",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Swift and sure-footed, nothing stops you delivering your messages on time.",
         "level1": {
           "attributes": [4, 5, 6],
@@ -14857,6 +14990,7 @@
       "id": "6725f15549960d00019d2e8d",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are rage and shame incarnate, seeking a worthy death to reclaim your lost honour.",
         "level1": {
           "attributes": [1, 3, 9],
@@ -14969,6 +15103,7 @@
       "id": "6725f33249960d00019d2e90",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are rage and shame incarnate, seeking a worthy death to reclaim your lost honour.",
         "level1": {
           "attributes": [1, 3, 9],
@@ -15081,6 +15216,7 @@
       "id": "6725f3d649960d00019d2e91",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are rage and shame incarnate, seeking a worthy death to reclaim your lost honour.",
         "level1": {
           "attributes": [1, 3, 9],
@@ -15193,6 +15329,7 @@
       "id": "6725f49749960d00019d2e92",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are paid to train, be disciplined, and, when the need comes, go to war.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -15305,6 +15442,7 @@
       "id": "6725f52a49960d00019d2e93",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are paid to train, be disciplined, and, when the need comes, go to war.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -15417,6 +15555,7 @@
       "id": "6725f5e049960d00019d2e94",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are paid to train, be disciplined, and, when the need comes, go to war.",
         "level1": {
           "attributes": [1, 4, 9],
@@ -15529,6 +15668,7 @@
       "id": "6725f71649960d00019d2e95",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Wielding a handgun, you bring death to your enemies from\nlong range - or at least put the fear of Sigmar into them.",
         "level1": {
           "attributes": [2, 6, 7],
@@ -15643,6 +15783,7 @@
       "id": "6726806a49960d00011f3259",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "You prepare alcoholic drinks of such strength and quality that no Dwarf can fail to appreciate them.",
         "level1": {
           "attributes": [4, 5, 7],
@@ -15756,6 +15897,7 @@
       "id": "6727d15849960d00013447af",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You lionise the great warrior ancestors of your people, encouraging younger Dwarfs to follow their example",
         "level1": {
           "attributes": [1, 4, 9],
@@ -15869,6 +16011,7 @@
       "id": "6727d5c449960d00013447b4",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You preserve and restore the oldest examples of Dwarfen craftsmanship to honour the master-builders who preceded you.",
         "level1": {
           "attributes": [4, 7, 9],
@@ -15982,6 +16125,7 @@
       "id": "6728048a49960d00013b5c49",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You lead and protect your kin as the Ancestor Gods expect - with healing balms, stirring words, and good ale.",
         "level1": {
           "attributes": [7, 8, 9],
@@ -16095,6 +16239,7 @@
       "id": "672aa1cd49960d000118ac4a",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are a professional bodyguard and elite warrior, enjoying pride of place in any Dwarfen army.",
         "level1": {
           "attributes": [1, 3, 9],
@@ -16208,6 +16353,7 @@
       "id": "672aa47149960d000118ac4d",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are a specialist tunnel fighter, armoured in nigh-indestructible gromril to endure the horrors of the sunless underworld.",
         "level1": {
           "attributes": [1, 2, 9],
@@ -16321,6 +16467,7 @@
       "id": "672b3e8049960d00011c7871",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You are a nomadic, overland traveller, living off the land, and keeping a wary eye on the enemies of your people.",
         "level1": {
           "attributes": [4, 5, 6],
@@ -16429,6 +16576,7 @@
       "id": "672b41c049960d00011c7873",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a diligent record keeper, inscribing essential information in stone so it is preserved until long after your death.",
         "level1": {
           "attributes": [4, 7, 8],
@@ -16542,6 +16690,7 @@
       "id": "672b484149960d00010a3d32",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a practitioner of runic magic, binding the Winds of Magic into physical objects through ritual craftsmanship.",
         "level1": {
           "attributes": [7, 8, 9],
@@ -16655,6 +16804,7 @@
       "id": "672b491449960d00010a3d33",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "You are the leader of a Dwarf Clan, or soon to inherit the position.",
         "level1": {
           "attributes": [1, 9, 10],
@@ -16768,6 +16918,7 @@
       "id": "6771867c49960d0001c9556d",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You inspire the criminal classes to use their wit and ingenuity to steal in the name of Ranald.",
         "level1": {
           "attributes": [5, 6, 9],
@@ -16881,6 +17032,7 @@
       "id": "6771869e49960d0001c9556e",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You carry the word of Ranald, tending to the spiritual needs of the masses.\nThis version of priest of Ranald embodies all aspects of the god. See page 13 of Deft Steps Light Fingers.",
         "level1": {
           "attributes": [4, 6, 9],
@@ -16995,6 +17147,7 @@
       "id": "67718d7449960d0001c95572",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You revere the role of chance in the world and bring the blessings of Ranald the Gamester to those who seek to benefit from his divine luck.",
         "level1": {
           "attributes": [5, 7, 10],
@@ -17109,6 +17262,7 @@
       "id": "6771902c49960d0001c95574",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You embody Ranald at his most elemental, the divine trickster, blessing the world with his lies, illusions, and pranks.",
         "level1": {
           "attributes": [5, 9, 10],
@@ -17222,6 +17376,7 @@
       "id": "6771b04a49960d00019506cb",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You champion the powerless in the name of Ranald the Protector.",
         "level1": {
           "attributes": [6, 9, 10],
@@ -17335,6 +17490,7 @@
       "id": "6771b50f49960d00019506d1",
       "object": {
         "class": 6,
+        "_class": "Rougue",
         "description": "You possess the artistic gift of copying other people’s artistic gifts with a convincing degree of precision",
         "level1": {
           "attributes": [4, 5, 7],
@@ -17448,6 +17604,7 @@
       "id": "6771b7b549960d00019506d2",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You stalk the wilds, bringing the blessings of Taal to those who seek his favour and his judgement to those who abuse or corrupt the natural world.",
         "level1": {
           "attributes": [4, 6, 9],
@@ -17551,6 +17708,7 @@
       "id": "6771ba6949960d00019506d4",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Using your way with animals and knowledge of the terrain, you are responsible for getting your cargo safely delivered while keeping your animals fit and healthy",
         "level1": {
           "attributes": [2, 6, 9],
@@ -17662,6 +17820,7 @@
       "id": "677254ff49960d00012259ca",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You make sure your employer’s land is fit and stocked for hunting and defend it against predators and poachers.",
         "level1": {
           "attributes": [2, 5, 8],
@@ -17775,6 +17934,7 @@
       "id": "677257f149960d00012259cc",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You hunt and trap for food in a battle of wits against your quarry and the powers that be.",
         "level1": {
           "attributes": [2, 6, 7],
@@ -17888,6 +18048,7 @@
       "id": "67f0d50b49960d0001cd2527",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "A skilled craftsperson, you take pride in your work, creating products for sale and commission. This is Ulthuan version of this Career.",
         "level1": {
           "attributes": [3, 4, 7],
@@ -18000,6 +18161,7 @@
       "id": "67f0d6fd49960d0001cd2528",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You bring the big guns to the fight. You maintain and fire artillery and understand the best use of blackpowder. This is Ulthuan version of this Career.",
         "level1": {
           "attributes": [2, 5, 8],
@@ -18114,6 +18276,7 @@
       "id": "67f0d8d249960d0001cd252a",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "A dashing and fearless rider, you bring speed, versatility, and skill-at-arms\nto the battlefield. This is Ulthuan version of this Career.",
         "level1": {
           "attributes": [1, 3, 6],
@@ -18226,6 +18389,7 @@
       "id": "67f0d9c149960d0001cd252b",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You rely on speed to find the enemy, screen your allies from his scouts, and strike without warning where he least expects. This is Ulthuan version of this Career.",
         "level1": {
           "attributes": [1, 4, 6],
@@ -18340,6 +18504,7 @@
       "id": "67f3fc9749960d00015a0149",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You fight for money, for glory, and for the entertainment of the masses. This is Ulthuan version of this Career.",
         "level1": {
           "attributes": [1, 3, 4],
@@ -18452,6 +18617,7 @@
       "id": "67f4de5649960d0001cbdc06",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "Shrewd and numerate, you buy low to sell high, making more money\r\nthan most will ever see.",
         "level1": {
           "attributes": [6, 9, 10],
@@ -18564,6 +18730,7 @@
       "id": "67f4dedf49960d0001cbdc07",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "Whether high-born or low-brow, you distract people from the harsh realities of life. This is Ulthuan version of this Career.",
         "level1": {
           "attributes": [6, 7, 10],
@@ -18676,6 +18843,7 @@
       "id": "67f5476549960d0001cbdc0d",
       "object": {
         "class": 5,
+        "_class": "Riverfolk",
         "description": "Seaman Elven Sailors are the most accomplished in the world, far superior to those of other species.",
         "level1": {
           "attributes": [6, 7, 10],
@@ -18788,6 +18956,7 @@
       "id": "67f54f9f49960d0001cbdc15",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "You are a highly trained naval warrior, capable of fighting at range and at close quarters.",
         "level1": {
           "attributes": [1, 2, 6],
@@ -18901,6 +19070,7 @@
       "id": "67f65b7149960d0001cbdc29",
       "object": {
         "class": 7,
+        "_class": "Warrior",
         "description": "Owed to seek knowledge, you travel the world in search of enlightenment as an adept of the Order of Swordmasters.",
         "level1": {
           "attributes": [1, 3, 5],
@@ -19014,6 +19184,7 @@
       "id": "67f6610649960d0001cbdc2c",
       "object": {
         "class": 4,
+        "_class": "Ranger",
         "description": "You are an avenging shadow who goes to great lengths to root out the foul plots of the Druchii.",
         "level1": {
           "attributes": [1, 2, 6],
@@ -19127,6 +19298,7 @@
       "id": "67f6652249960d0001cbdc30",
       "object": {
         "class": 1,
+        "_class": "Burghers",
         "description": "You are filled with a desire to travel the world, seeking fortune and glory, plundering the seas, and trading its goods.",
         "level1": {
           "attributes": [1, 5, 10],
@@ -19240,6 +19412,7 @@
       "id": "67f6891749960d0001cbdc36",
       "object": {
         "class": 2,
+        "_class": "Courtier",
         "description": "You move throughout society, advising Elves on aesthetic choices that encourage healthy spiritual harmony.",
         "level1": {
           "attributes": [6, 8, 10],
@@ -19353,6 +19526,7 @@
       "id": "6801622749960d0001615c71",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a student of the loremasters of the White Tower of Hoeth, practising the esoteric arts of Elven magic.",
         "level1": {
           "attributes": [8, 9, 10],
@@ -19471,6 +19645,7 @@
       "id": "68016a9249960d0001615c73",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You seek to combine the power of High Magic, the talents of the smith, and inspiration from the divine example of Vaul to become a peerless crafter of artefacts magical and mundane.",
         "level1": {
           "attributes": [],
@@ -19561,6 +19736,7 @@
       "id": "68016cd549960d0001615c74",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You command Mathlann's realm, assisting ships and sailors through your mastery of Elven sea magics.",
         "level1": {
           "attributes": [],
@@ -19651,6 +19827,7 @@
       "id": "68016e0549960d0001615c75",
       "object": {
         "class": 0,
+        "_class": "Academic",
         "description": "You are a mage, warrior, and scholar, seeking to expand the library at the White Tower and vanquish the forbidden cults plaguing Ulthuan.",
         "level1": {
           "attributes": [],
